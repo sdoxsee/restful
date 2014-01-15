@@ -1,0 +1,4 @@
+tutorial from => https://spring.io/guides/gs/rest-service/ 
+build with => mvn clean package
+run with => java -jar target/gs-rest-service-0.1.0.jar
+invoke with => http://localhost:8080/greeting
